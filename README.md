@@ -16,6 +16,10 @@
 - .NET Framework 4.8
 - Newtonsoft.Json — для сериализации/десериализации данных
 
+## Скриншот
+
+<img width="786" height="492" alt="image" src="https://github.com/user-attachments/assets/a3de0d1d-2f14-480e-9884-0058d22f1eda" />
+
 ## Как запустить
 
 1. Склонируй репозиторий:
