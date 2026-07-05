@@ -16,13 +16,17 @@
 - .NET Framework 4.8
 - Newtonsoft.Json — для сериализации/десериализации данных
 
+## Скриншот
+
+<img width="786" height="492" alt="image" src="https://github.com/user-attachments/assets/a3de0d1d-2f14-480e-9884-0058d22f1eda" />
+
 ## Как запустить
 
 1. Склонируй репозиторий:
    ```
    git clone https://github.com/твой-username/название-репозитория.git
    ```
-2. Открой `ToDo.sln` в Visual Studio
+2. Открой `ToDo.slnx` в Visual Studio
 3. Восстанови NuGet-пакеты (обычно происходит автоматически при открытии)
 4. Собери и запусти проект (F5)
 
